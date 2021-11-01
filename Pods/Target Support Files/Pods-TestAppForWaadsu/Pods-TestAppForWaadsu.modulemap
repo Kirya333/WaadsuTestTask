@@ -1,0 +1,6 @@
+framework module Pods_TestAppForWaadsu {
+  umbrella header "Pods-TestAppForWaadsu-umbrella.h"
+
+  export *
+  module * { export * }
+}
